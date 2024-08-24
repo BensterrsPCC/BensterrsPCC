@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## - 🔭 I’m currently working on transferring colleges.
+- 🔭 I’m currently working on transferring colleges.
 - 🌱 I’m currently learning Python and Java.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The term used to describe how seals move on land by flopping around on their bellies is called "Galumphing".
